@@ -23,4 +23,5 @@ This is a simple calculator application developed using Python. It performs basi
 Beginner Python Project
 
 ## Author
-Your Name
+Ayesha
+
